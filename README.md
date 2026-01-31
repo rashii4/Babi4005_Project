@@ -12,19 +12,13 @@ Exploratory data analysis of Netflix movies and TV shows
 
 This project explores a dataset of movies and TV shows available on Netflix.
 
-The goal is to understand high-level trends in content type, release patterns,
-
-genres, and dataset limitations using exploratory data analysis.
+The goal is to understand high-level trends in content type, release patterns, genres, and dataset limitations using exploratory data analysis.
 
 
 
 ##### Data Source
 
-The dataset was obtained from Kaggle and contains metadata about Netflix titles,
-
-including type (movie or TV show), release year, duration, genre, country,
-
-cast, and director.  
+The dataset was obtained from Kaggle and contains metadata about Netflix titles, including type (movie or TV show), release year, duration, genre, country, cast, and director.  
 
 The raw dataset is not included in this repository and is ignored using `.gitignore`.
 
