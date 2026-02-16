@@ -209,3 +209,8 @@ __marimo__/
 # Ignore dataset files to keep raw data off GitHub
 *.csv
 
+data/
+.ipynb_checkpoints/
+.DS_Store
+
+
