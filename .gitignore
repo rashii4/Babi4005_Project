@@ -209,3 +209,5 @@ __marimo__/
 # Ignore dataset files to keep raw data off GitHub
 *.csv
 
+# Project data folder
+data/
